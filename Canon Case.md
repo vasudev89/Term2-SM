@@ -7,10 +7,10 @@
 
 <table>
 	<thead>
-		<th>
-			<td>1960</td>
-			<td>1970</td>
-		</th>
+		<tr>
+			<th>1960</th>
+			<th>1970</th>
+		</tr>
 	</thead>
 	<tbody>
 		<tr>
