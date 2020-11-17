@@ -66,7 +66,7 @@
 	- Businesses could afford
 	- Centralized copying highly attractive
 	- M/cs leased rather than sold to businesses
-	- # of copy based revenue collection
+	- Revenue Basis: Number of copies made by a business
 
 - International Orientation(Geographic Expansion):
 	- 1956: Ventured with Rank Org Ltd in the UK to form Rank Xerox
