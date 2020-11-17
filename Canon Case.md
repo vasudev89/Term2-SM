@@ -16,10 +16,12 @@
 		<tr>
 			<td>
 				Sales: $40 million
+				<br>
 				PAT: $2.6 million
 			</td>
 			<td>
 				Sales: $1.7 billion
+				<br>
 				PAT: $187.7 million
 			</td>
 		</tr>
