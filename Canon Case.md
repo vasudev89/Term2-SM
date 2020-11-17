@@ -1,8 +1,6 @@
-# Canon Case
+# Canon Case - Canon: Competing on Capabilities
 
 ## Case Facts
-
-### Canon: Competing on Capabilities
 - Year: 1961
 - Joseph C. Wilson: President of Xerox Corporation
 - Positive Outlook: Model 914 copier had had success in the past years
