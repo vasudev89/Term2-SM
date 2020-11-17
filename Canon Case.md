@@ -5,26 +5,27 @@
 - Joseph C. Wilson: President of Xerox Corporation
 - Positive Outlook: Model 914 copier had had success in the past years
 
-<TABLE>
+<table>
 	<thead>
 		<th>
 			<td>1960</td>
 			<td>1970</td>
 		</th>
 	</thead>
-
 	<tbody>
 		<tr>
 			<td>
 				Sales: $40 million
 				PAT: $2.6 million
 			</td>
+		</tr>
+		<tr>
 			<td>
 				Sales: $1.7 billion
 				PAT: $187.7 million
 			</td>
 		</tr>
 	</tbody>
-</TABLE>
+</table>
 
 - __40% Revenue increase each year__
