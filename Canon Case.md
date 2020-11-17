@@ -43,3 +43,16 @@
 	- Second largest player in the business
 	- Surpassed Xerox in the number of units sold
 	- Reason was its mission: synergistic management of technological capabilities + combining the full measure of Canon's know how in Fine Optics, Electronics, Fine Chemicals, and Precision Mechanics
+
+### Xerox History
+- Year: 1948
+- Carlson: inventor of electrostatic process => transfer images from 1 paper to another
+- 2 new developments:
+	- CPC(Coated Paper Copier): Zinc Oxide Coated Paper
+	- PPC(Plain Paper Copier): transferred image from 1 paper directly to another by using charged particles
+- Dry Toner preferred in both technologies
+- PPC: Monopoly of Xerox(Protected by 500 Patents)
+	- Cheaper paper required
+	- Did not fade under heat or light
+	- Faster than CPC
+	- Higher volumes: Could print multiple units at a time
