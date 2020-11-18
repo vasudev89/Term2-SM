@@ -268,3 +268,31 @@
 	- Reduced cost to half
 
 #### Obession of winning(used Stretch Goals). Did not rest with finding loose bricks. Where loose bricks were not found they chose to collaborate to compete. Simultaneously used changing rules and layers of advantage.
+
+
+## Processes: Interconnected Activites
+
+- Order fulfillment
+- Demand Management
+- 
+
+
+## Question: How did Canon's *core processes* contribute to the firm's *competitive advantage*?
+
+- Proximity of R&D to manufacturing
+- Marketing aligned with R&D
+- HRM and Product Development
+- Competence in R&D
+
+- Superior Marketing strength
+- Manufacturing of new products globally
+- Partnering with host countries for sharing value
+- Extending marketing incentives to dealers - 2nd order fit
+
+- Independent yet interconnected BUs
+- Lean Manufacturing - cost advantage
+- Low waste - cost advantage 
+- Component Commonality
+- Tapered Integration
+- Outsourcing
+- Reliability
