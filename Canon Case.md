@@ -142,3 +142,9 @@
 		- NP200 introduced - Most economical and productive copier available
 		- Year: 1982
 		- Copiers surpassed cameras as the company's largest revenue generator
+
+### Personal Copier
+- Period: Late 1970s
+- AE-1 : Camera - compact SLR camera - First camera to use microelectronics
+- Wanted similar success with PPCs
+- Planned to target the copier to firms requiring low volume "value for money" copiers
