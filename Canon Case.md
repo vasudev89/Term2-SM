@@ -88,7 +88,10 @@
 - Year: 1962
 - New products R&D setup
 - Intent: __Explore__ 
-	- Copy m/cs: <h4> PPC research initiated </h4>
+	- Copy m/cs - __PPC research initiated__
+		- <h5>X</h5>
+		- PPC protected by patents by Xerox
+		- Speed + Economy + Quality -> reason why Canon wanted to step into the market
 	- Auto focus cameras
 	- Strobe integrated cameras
 	- Home VCRs
@@ -107,4 +110,16 @@
 - Good desing but not patented => similar firm introduced a similar product at half price
 
 ### Move into copiers:
-- 
+- __ Refer X in document__
+- Year: 1965
+- Entered with CPC - Confax 1000
+- Marketed only in Japan
+
+### Success
+- Year: 1968
+- NP(New Process) accounced by Canon
+- Immediately protected by 500 Patents
+- NP1100 - First M/C - introduced in 1970
+	- 10 copies a min
+	- Dry toner
+	- 2 years later Canon entered the overseas market(except North America)
