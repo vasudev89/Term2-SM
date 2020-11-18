@@ -187,18 +187,25 @@
 		- Patent: if it makes tech a VRIO then the patent is a resource
 
 
-- Jam board
-	- 500 patents
-	- International Presence
-	- Brand synonymous with copying
-	- Lease strategy which became an entry barrier
-	- PPC tech
-	- Joint Ventures - Fuji(Japan) and Rank(UK)
-	- Decentralized R&D
-	- Large sized Plants
-	- Economies of Scale
-	- Local market customization
-	- Work Culture which promotes efficiency
-	- Product Commonality
-	- Specific Segment
-
+## Jam board
+	- Tech
+		- 500 patents
+		- PPC tech
+		- R & D 10 times the rev of most of market players
+		- Decentralized R&D
+	- Mkt
+		- 93% market share
+		- Brand synonymous with copying
+		- Sales & Service N/w
+		- Lease strategy - entry barrier
+		- JV to expand
+		- Local mkt customization
+		- Sepcific Segment
+	- Ops
+		- Large sized plants - Economies of Scale 	
+		- Product Commonality
+	- Infra
+		- International Presence
+	- HRM
+		- Work Cultre
+	
