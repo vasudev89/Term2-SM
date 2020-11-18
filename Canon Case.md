@@ -88,7 +88,7 @@
 - Year: 1962
 - New products R&D setup
 - Intent: __Explore__ 
-	- Copy m/cs: ### PPC research initiated
+	- Copy m/cs: <h4> PPC research initiated </h4>
 	- Auto focus cameras
 	- Strobe integrated cameras
 	- Home VCRs
