@@ -239,7 +239,30 @@
 	- Long Term relationship with suppliers - 2 suppliers every part
 	- Low cost quality mfg
 	- Tapered backward intergration
+	- Kaizen
 - Infra
 	- Structure with Cross Functional teams
+	- Leadership
 - HRM
 	- Employee Culture
+
+## Question: What was Canon's strategy to compete against Xerox?
+- Loose Bricks(Strategic Intent)
+	- Untapped market E segment
+
+- Stretch Goals(Strategic Intent)
+	- Long term plans for growth split into smaller time frames
+	- Each SBU responsible fro innovation
+
+- Collaborating to Compete(Strategic Intent)
+	- Sourced Technology with other Co.s/JVs
+
+- Changing Rules(Strategic Intent)
+	- Inventory Management System
+
+- Bulding Layers of Advantage(Strategic Intent)
+	- Replaceable parts - less Servicing
+	- 10 times more reliability
+	- Advertizing & Branding
+	- Reduced product development time by 1/2
+	- Reduced cost to half
