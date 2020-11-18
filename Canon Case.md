@@ -110,7 +110,7 @@
 - Good desing but not patented => similar firm introduced a similar product at half price
 
 ### Move into copiers:
-- __ Refer X in document__
+- __Refer X in document__
 - Year: 1965
 - Entered with CPC - Confax 1000
 - Marketed only in Japan
@@ -123,3 +123,10 @@
 	- 10 copies a min
 	- Dry toner
 	- 2 years later Canon entered the overseas market(except North America)
+
+- Year: 1972
+- NPL7 introduced
+	- Liquid Toner
+	- Eliminated complex fusing technology
+	- More economical, compact, and reliable
+	- Same or better quality of copies 
