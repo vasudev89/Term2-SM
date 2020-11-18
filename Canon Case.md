@@ -296,3 +296,14 @@
 - Tapered Integration
 - Outsourcing
 - Reliability
+
+## How to decide which Framework to use(IO/RBV) - asked by Vikram Chaturvedi?
+- Ideally when you look at case - segregate the value chain
+- Start with PESTEL - Influence Industry Structure
+- Move to ISA or Porter 5
+- Move to SWOT - OT comes out of external
+- Draw critical success factors - Resource analysis based on VRIO
+- Move to Value chain - disaggregate 
+- Quick run though of finding loose bricks, Building layers etc.
+- Last step(optional): Resource Based
+- For Sustainable advantage - look at size, access and options (TETRA threat framework)
