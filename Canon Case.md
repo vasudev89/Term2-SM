@@ -267,4 +267,4 @@
 	- Reduced product development time by 1/2
 	- Reduced cost to half
 
-##### Obession of winning(used Stretch Goals). Did not rest with finding loose bricks. Where loose bricks were not found they chose to collaborate to compete. Simultaneously used changing rules and layers of advantage.
+#### Obession of winning(used Stretch Goals). Did not rest with finding loose bricks. Where loose bricks were not found they chose to collaborate to compete. Simultaneously used changing rules and layers of advantage.
