@@ -129,4 +129,16 @@
 	- Liquid Toner
 	- Eliminated complex fusing technology
 	- More economical, compact, and reliable
-	- Same or better quality of copies 
+	- Same or better quality of copies
+	- Sold licensing to firms: earned revenues of $32 mill between 1975 and 1982
+	- Influence of Technology leveraged in the 70s
+		- Year: 1973
+		- Added color 
+		- Year: 1975
+		- Added laser beam printing
+		- Year: 1978
+		- High volume copier pitted against Xerox 9200
+		- Year 1979
+		- NP200 introduced - Most economical and productive copier available
+		- Year: 1982
+		- Copiers surpassed cameras as the company's largest revenue generator
