@@ -88,7 +88,7 @@
 - Year: 1962
 - New products R&D setup
 - Intent: __Explore__ 
-	- Copy m/cs
+	- Copy m/cs: ### PPC research initiated
 	- Auto focus cameras
 	- Strobe integrated cameras
 	- Home VCRs
@@ -98,10 +98,13 @@
 - President: Tekeshi Mitarai - "Too difficult and Risky"
 
 - Year: 1964
-- Canloa 130 released. World's first 10 key numeric pad calculator
+- Canola 130 released. World's first 10 key numeric pad calculator
 
 ### Diversification didn't always succeed
 **Failure**
 - Year 1959
 - Synchroreader - RW ops on a piece of paper coated with mag material
 - Good desing but not patented => similar firm introduced a similar product at half price
+
+### Move into copiers:
+- 
