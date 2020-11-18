@@ -235,7 +235,7 @@
 	- Distribution Channels
 	- Dealer Relationship
 	- Channels of other products
--Ops
+- Ops
 	- Long Term relationship with suppliers - 2 suppliers every part
 	- Low cost quality mfg
 	- Tapered backward intergration
