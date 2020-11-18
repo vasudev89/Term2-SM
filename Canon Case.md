@@ -238,6 +238,7 @@
 -Ops
 	- Long Term relationship with suppliers - 2 suppliers every part
 	- Low cost quality mfg
+	- Tapered backward intergration
 - Infra
 	- Structure with Cross Functional teams
 - HRM
