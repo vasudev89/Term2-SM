@@ -188,24 +188,35 @@
 
 
 ## Jam board
-	- Tech
-		- 500 patents
-		- PPC tech
-		- R & D 10 times the rev of most of market players
-		- Decentralized R&D
-	- Mkt
-		- 93% market share
-		- Brand synonymous with copying
-		- Sales & Service N/w
-		- Lease strategy - entry barrier
-		- JV to expand
-		- Local mkt customization
-		- Sepcific Segment
-	- Ops
-		- Large sized plants - Economies of Scale 	
-		- Product Commonality
-	- Infra
-		- International Presence
-	- HRM
-		- Work Cultre
-	
+	- Value Chain Dimensions
+		- Tech
+			- 500 patents
+			- PPC tech
+			- R & D 10 times the rev of most of market players
+			- Decentralized R&D
+		- Mkt
+			- 93% market share
+			- Brand synonymous with copying
+			- Sales & Service N/w
+			- Lease strategy - entry barrier
+			- JV to expand
+			- Local mkt customization
+			- Sepcific Segment
+		- Ops
+			- Large sized plants - Economies of Scale 	
+			- Product Commonality
+		- Infra
+			- International Presence
+		- HRM
+			- Work Cultre
+
+## VRIO
+- VRIO is an initialism for the four question framework asked about a resource or capability to determine its competitive potential: the question of Value, the question of Rarity, the question of Imitability (Ease/Difficulty to Imitate), and the question of Organization (ability to exploit the resource or capability).
+
+- The Question of Value: "Is the firm able to exploit an opportunity or neutralize an external threat with the resource/capability?"
+- The Question of Rarity: "Is control of the resource/capability in the hands of a relative few?"
+- The Question of Imitability: "Is it difficult to imitate, and will there be significant cost disadvantage to a firm trying to obtain, develop, or duplicate the resource/capability?"
+- The Question of Organization: "Is the firm organized, ready, and able to exploit the resource/capability?" "Is the firm organized to capture value?"
+
+## Is Market Share a resource?
+- if it's VRIO then it's a resource
