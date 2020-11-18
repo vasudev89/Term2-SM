@@ -267,4 +267,4 @@
 	- Reduced product development time by 1/2
 	- Reduced cost to half
 
-##### Obession of winning. Did not rest with finding losse bricks. Where loose brick not found collaborate to compete.
+##### Obession of winning. Did not rest with finding loose bricks. Where loose bricks were not found they chose to collaborate to compete.
