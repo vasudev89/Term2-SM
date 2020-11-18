@@ -75,3 +75,24 @@
 
 - Investment in Technology and Manufacturing:
 	- Spent $100 Million on R&D annually
+
+## Canon History
+- Founded in Year 1933 to compete with German Leica. Produced 35mm camera
+- WW2: optics expertize to produce an X ray machine for Japanese Military
+- Mid 1950s: Largest Camera manufacturer in the world
+- Developed 8mm camera, tv lenses and micrographic eq
+- __Diversification__: very important to Canon
+
+<br>
+
+- Year: 1962
+- New products R&D setup
+- Intent: __Explore__ 
+	- Copy m/cs
+	- Auto focus cameras
+	- Strobe integrated cameras
+	- Home VCRs
+	- Electronic calculators
+
+- First Target Product: Calculator => difficult since it required Canon to understand microelectronics
+- President: Tekeshi Mitarai - "Too difficult and Risky" 
