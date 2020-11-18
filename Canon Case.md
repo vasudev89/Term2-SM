@@ -168,3 +168,37 @@
 - Each PD R&D tasked with designing and developing short to medium= term products
 - Developed by cross fucntional teams
 - Managed by R&D HQ group
+
+
+
+
+
+# Amita Ma'am: Discussion on 18/11/2020
+- Strategic Intent
+	- Xerox
+	- Canon used a Resource Based View
+
+## Assets
+	- Tangible
+	- Intangible
+	- Capabilities
+		- Assets * Capailities = Competence
+		- Tech is a resource
+		- Patent: if it makes tech a VRIO then the patent is a resource
+
+
+- Jam board
+	- 500 patents
+	- International Presence
+	- Brand synonymous with copying
+	- Lease strategy which became an entry barrier
+	- PPC tech
+	- Joint Ventures - Fuji(Japan) and Rank(UK)
+	- Decentralized R&D
+	- Large sized Plants
+	- Economies of Scale
+	- Local market customization
+	- Work Culture which promotes efficiency
+	- Product Commonality
+	- Specific Segment
+
