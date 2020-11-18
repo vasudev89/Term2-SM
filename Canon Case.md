@@ -175,7 +175,7 @@
 
 # Amita Ma'am: Discussion on 18/11/2020
 - Strategic Intent
-	- Xerox
+	- Xerox used IO View
 	- Canon used a Resource Based View
 
 ## Assets
