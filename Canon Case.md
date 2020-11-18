@@ -148,3 +148,17 @@
 - AE-1 : Camera - compact SLR camera - First camera to use microelectronics
 - Wanted similar success with PPCs
 - Planned to target the copier to firms requiring low volume "value for money" copiers
+- Keep it as a personal side desk machine - good for decentralization in offices
+- Engineering and R&D took up the challenge
+- 1 challenge: Specific Paper Size used in 60% of Japanese Market. Standardized to Letter size for international sale
+- 3 years later -> __Success__
+	- Smallest, Lightest copier ever made
+	- Decentralized
+	- PC: Personal Copier had beed created
+	- Patent Law used to protect the technology
+
+# Canon Overview
+
+### Long term Startegy: Become a Premier company
+- Strengths: Tech Inovvations + MKt Expertise + Low Cost Quality Manu.
+- Common Approach: Extensive outsourcing and focused internal development
