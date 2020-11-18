@@ -95,4 +95,13 @@
 	- Electronic calculators
 
 - First Target Product: Calculator => difficult since it required Canon to understand microelectronics
-- President: Tekeshi Mitarai - "Too difficult and Risky" 
+- President: Tekeshi Mitarai - "Too difficult and Risky"
+
+- Year: 1964
+- Canloa 130 released. World's first 10 key numeric pad calculator
+
+### Diversification didn't always succeed
+**Failure**
+- Year 1959
+- Synchroreader - RW ops on a piece of paper coated with mag material
+- Good desing but not patented => similar firm introduced a similar product at half price
