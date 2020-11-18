@@ -222,4 +222,23 @@
 - if it's VRIO then it's a resource
 
 ## Question: What resource did Canon's use in overcoming Xerox's?
-- 
+- Tech
+	- Optic Technology
+	- R&D 9%
+	- Leveraged expertise across business
+	- Close to 500 Patents
+	- Product Customization
+- Mkting
+	- Capability of segmenting the market
+	- International Presence
+	- Marketing Brand
+	- Distribution Channels
+	- Dealer Relationship
+	- Channels of other products
+-Ops
+	- Long Term relationship with suppliers - 2 suppliers every part
+	- Low cost quality mfg
+- Infra
+	- Structure with Cross Functional teams
+- HRM
+	- Employee Culture
