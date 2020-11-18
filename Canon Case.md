@@ -266,3 +266,5 @@
 	- Advertizing & Branding
 	- Reduced product development time by 1/2
 	- Reduced cost to half
+
+##### Obession of winning. Did not rest with finding losse bricks. Where loose brick not found collaborate to compete.
