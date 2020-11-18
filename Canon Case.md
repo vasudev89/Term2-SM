@@ -160,5 +160,11 @@
 # Canon Overview
 
 ### Long term Startegy: Become a Premier company
-- Strengths: Tech Inovvations + MKt Expertise + Low Cost Quality Manu.
+- Strengths: Tech Inovations + MKt Expertise + Low Cost Quality Manu.
 - Common Approach: Extensive outsourcing and focused internal development
+
+### Tech
+- Decentralized R&D: Each Product Division(PD) has its own R&D
+- Each PD R&D tasked with designing and developing short to medium= term products
+- Developed by cross fucntional teams
+- Managed by R&D HQ group
