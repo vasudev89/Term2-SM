@@ -65,5 +65,21 @@
 	- Sounds ltd to beeps, bells and bursts
 
 ### Atari
+- Year Founded: 1972
+- Entrepreneur: Nolan Bushnell
+- US Based
+
+#### Arcade Game Business
+- 1970s: 
+	- Coin-operated game m/cs(cost = 1000$) sold or leased by distributors to operators.  
+	- Place in malls, bowling alleys
+- Bushnell & Team Developed Pong @Atari
+	- Brought in $200/week compared to other games bringing in $45/week
+- 1974:
+	- copying was rampant
+	- 1/10 of the 100000 copies sold were made by Atari
+
+
+
 
 # Amita Ma'am: Discussion on 20/11/2020
