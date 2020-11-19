@@ -133,7 +133,7 @@
 	- Game Development
 		- R&D Team @Nintendo designed games
 		- R&D Team insulated from Marketing people: Fresh game concepts could be conceived
-		- Post game conceptualization:
+		- Post game conceptualization Process:
 			- Art
 			- Audio
 			- Actual Code
@@ -145,5 +145,47 @@
 		- 1985: Super Mario Bros
 		- 1987: Legend of Zelda
 		- 1987: Metroid
+
+#### Licensing
+- Demand > Supply
+- Other firms licensed to develop games
+- Intial Licensees(Total 6):
+	- Namco
+	- Capcom
+	- Hudson
+	- Taito
+	- Konami
+	- Bandai
+	- Had to pay 20% of cartridge sale price of $30
+- Year: 1988
+	- 50 Licensees
+	- 44 had to absorb manufacturing cost in addition to royalty
+	- Renewals in 1989 made the inital 6 angrily comply to the norms
+
+#### Position in the late 1980s
+- Nintendo = 95% of Japanese 8B Video Game Market
+- 17 million units sold
+- 1 out of 3 households had a Famicom
+- 12 cartridges bought for each Famicon on average
+- Nintendo continued with outsourcing
+- Nintendo = Ricoh's(Japan's Largest Semiconductor manufacturer) Largest Customer(60-70% of Ricoh's semiconductor sales)
+- Nintendo Employees:
+	- Research and development = 200
+	- Administration = 300
+	- Manufacturing = 310
+- Year: 1988 
+	- Launched Family Computer Communications Network System
+	- $100 modem + special cartridge = a terminal that could interact with other terminals
+- Year: 1991
+	- 130000 had joined n/w
+	- Stock Brokerage Services
+	- Email
+	- Home Shopping
+	- Online Banking
+	- Rail and Airplane Reservations
+	- Revenue = Online Time + Info + Service Suppliers access to the user base
+
+#### Nintendo in the US
+- 
 
 # Amita Ma'am: Discussion on 20/11/2020
