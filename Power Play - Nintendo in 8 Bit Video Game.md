@@ -110,7 +110,13 @@
 		- Flood of Low Quality Software
 		- Sales plummeted to < $100 mill
 		- Atari's Hardware Divisions sold by Warner - Later reformed as the Atari Corp
+		- Home Video Game business had collapsed but Arcade business was resilient and continued to survive
 
+#### Nintendo in Japan
+- 
 
+#### Famicom
+- 1983
+	- 
 
 # Amita Ma'am: Discussion on 20/11/2020
