@@ -79,6 +79,37 @@
 		- copying was rampant
 		- 1/10 of the 100000 copies sold were made by Atari
 
+#### Home Market
+	- 1975: 
+		- Bushnell wanted to target the Home Market
+		- M/c compressed down to a few ICs that could be connected to a TV
+		- 150000 Home Pong units sold
+	-1976
+		- Fairchild(Semiconductor Firm): Came out with 1st Video Game System enabling multiple games to be played
+		- Fairchild System = Console
+		- Atari developing 2600 VCS -> similar to Fairchild System
+		- Bushnell needed to sell Atari to a cash rich firm
+		- Warner Communications bought it
+	- 1977
+		- VCS launched
+		- Retail Price: $200 (console) + $20 to $30(cartridges) ($5-$10 Cost of Cartridges)
+	- 1978 Christmas
+		- Home Video Game Business attracted electronics cos
+			- RCA
+			- National Semiconductor
+			- General Instrument
+			- Toy Maker - Coleco
+	- 1979
+		- VCS share of installed home video games = 2/3
+		- 4 Engineers from Atari left to form their own firm - Activision - later leading others to follow suit
+	- 1982
+		- 17% US homes had a video game system
+		- Retail Sales = $3 Billion
+		- Atari released 2nd gen system = 5200 Super VCS
+	- 1985
+		- Flood of Low Quality Software
+		- Sales plummeted to < $100 mill
+		- Atari's Hardware Divisions sold by Warner - Later reformed as the Atari Corp
 
 
 
