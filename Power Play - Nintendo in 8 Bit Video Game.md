@@ -32,10 +32,12 @@
 </table>
 
 ### Nintendo
+<p>
 - Japanese Firm
 - Year Founded: 1889
 - Manufacturer of handmade playing cards.
 - 1977 - Started making home made video game systems in Japan under license from US TV manufacturer Magnavox
+</p>
 
 - 1983: Launched Famicom + Games(Legends of Zelda and Metroid)
 - 1985: Mario Bros
@@ -46,5 +48,6 @@
 - Mid 1990 - Mid 1991: Stock value exceeded that of Sony or Nissan
 
 ### Home Video Game Systems
+- 
 
 # Amita Ma'am: Discussion on 20/11/2020
