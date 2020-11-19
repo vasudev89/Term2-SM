@@ -117,6 +117,33 @@
 
 #### Famicom
 - 1983
-	- 
+	- Japanese Home Video Game Industry had many players
+		- Atari
+		- Commodore(US)
+		- Casio and Sharp
+	- Nintendo's Horoshi Yamauchi(Owner): working on developing a whole new system
+		- Cheaper than competition's consoles($200-$350)
+		- Have superior graphics and faster action
+		- To reduce hardware cost each cartridge contained several chips: Ensure only nintendo-approved carts could run on the console
+		- All manufacturing subcontracted
+		- Final assembly at Nintendo Facilities
+		- Launched in 1983
+		- Looked more like a toy than a computer
+		- Cost per console = $100
+	- Game Development
+		- R&D Team @Nintendo designed games
+		- R&D Team insulated from Marketing people: Fresh game concepts could be conceived
+		- Post game conceptualization:
+			- Art
+			- Audio
+			- Actual Code
+		- Dedicated Software Utilities and Tools developed to accelerate the sft pgmg process
+		- Development cost = $500,000/game title + Marketing = several million yen/game title
+		- Focused on developing 1-2 Big Successes instead of many minor successes
+		- Engineers learned to make more complex games over time - using powerful chips in cartridges
+	- Smash Hits
+		- 1985: Super Mario Bros
+		- 1987: Legend of Zelda
+		- 1987: Metroid
 
 # Amita Ma'am: Discussion on 20/11/2020
