@@ -6,7 +6,9 @@
 
 <table>
 	<tbody>
-		<tr>	<td>1966</td>	<td>1972</td>	<td>1982</td>	<td>1985</td>	</tr>
+		<tr><b>
+			<td>1966</td>	<td>1972</td>	<td>1982</td>	<td>1985</td>
+		</b></tr>
 		<tr>	
 			<td>
 				Odyssey - a ball and paddle game
@@ -21,7 +23,7 @@
 			</td>
 			<td>
 				Sales plummeted to under $100 mill
-				Blame on 
+				Blame on
 					- Low quality software
 					- 8 bit video games were toys
 			</td>
