@@ -84,7 +84,6 @@
 
 #### Changing the Tactics
 - Change the way players percieve uncertainty -> Lift the fog or thicken it
-
 - 2 newspapers in the US
 - 1 increase price: Lost market share
 - the other didn't instead it got the lost market share of the first
