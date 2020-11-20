@@ -81,3 +81,12 @@
 			- New supplier comes with lowest bid
 			- Assured of quality of previous suppliers
 			- Give a chance to the previous players to meet the new rates
+
+#### Changing the Tactics
+- Change the way players percieve uncertainty -> Lift the fog or thicken it
+
+- 2 newspapers in the US
+- 1 increase price: Lost market share
+- the other didn't instead it got the lost market share of the first
+- 1st created a fog: reduced the price significantly in a few states. Claimed that it would do this in all states
+- 2nd company had to increase the price eventually
