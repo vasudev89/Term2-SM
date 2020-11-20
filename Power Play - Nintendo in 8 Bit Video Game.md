@@ -200,6 +200,41 @@
 - Similar to Japan
 - Ltd each license to 5 NES titles/year
 - Content controlled - No adult or excessively violent content allowed
-- Early licensees - US Subsidiaries of companies that worked with Nintendo in Japan 
+- Early licensees - US Subsidiaries of companies that worked with Nintendo in Japan
+- Late Signee was Electronics Arts(EA)
+	- Founded by Trip Hawkins in 1982
+	- Veteran of Apple Computers
+	- Envisioned that PCs would play multipurpose roles in homes
+	- He had concentrated his efforts in designing floppy disk based games for PCs
+	- Signed up with Nintendo in 1990
+	- Skeptical about the success of Nintendo -> Might die out like Atari
+	- 1991-Stepped aside from the day-to-day mnmgt of EA 
+- 1991 
+	- 100 Licensees for NES
+	- 10% software development remained in house at Nintendo
+	- 450 Titles available for NES
+- Nintendo Licensed game characters to wide variety of other businesses
+	- Mario and others
+
+### Marketing and Distribution
+- Targeted Advertising tied with new game releases
+- Ad Bdgt - 2% of Sales
+- Promo Partners - Pepsi, P&G, McD
+- 1988:
+	- Magazine started - Nintendo Power for NES users
+		- Highest circulation among children in the US in 1990
+	- Game Counseling
+- Distribution:
+	- Toy Stores: 30% of Volume
+	- Mass Merchandisers: 40% of Volume
+	- Dept Stores: 10% of Volume
+	- Toy Industry had retail sales of $13 Billion
+		- Toys R Us earned 20% profit from Nintendo Merchandise
+	- Retailers had to pay for merch in quick succession 
+	- Walmart and KMart carried Nintendo Products - Did not stock competing products
+	- Strict Inventory Control
+
+### Position in Late 1980s
+- 
 
 # Amita Ma'am: Discussion on 20/11/2020
