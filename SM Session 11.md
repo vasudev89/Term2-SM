@@ -7,3 +7,18 @@
 - Asses the entire value of the game
 - Remove a player and again the assess the value
 - Difference is the value of the player
+
+- Rule Based Games
+- Every action has an opposite reaction (Equal or Unequal)
+
+- Freewheeling Games
+- Card Matching Game
+	- Ma'am has all red cards
+	- 26 others have 1 black card each
+	- Match = 100
+	- Total Value = 2600
+	- If I am removed, 1 pair can't be matched. Thus value = 100
+	- If Ma'am is removed, value = 0
+
+- Try to move from a win lose to a win win situation
+
