@@ -30,12 +30,14 @@
 - Customers and Suppliers have moved to the vertical axis
 - Transactions occur b/w them
 - Horizontal axis has only interactions, no transactions:
-	- Substitutors:
+	- Substitutors(Downstream):
+		- Loss can occur(-ive effect)
 		- Rivals, New Entrants, Substitutes, Those firms which are not part of the industry 
 		- Customers can buy from them in case of non-availability
 			- Coke and Pepsi
 		- Suppliers(Upstream) may sell their resources to them in case they wish to
-	- Complementors:
+	- Complementors(Upstream):
+		- Facilitate sale of products(+ive effect)
 		- Players from whom customers buy complementary products or to whom suppliers may sell complementary resources
 		- Spicejet and Indigo
 		- All airlines buy from Airbus causing R&D expense to be distributed
