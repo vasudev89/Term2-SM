@@ -47,3 +47,37 @@
 - Players: Represented on Value Net
 	- Substitutors, Complementors, Customers and Suppliers
 	- Complementors: Refer to Complementors from previous point 
+
+#### Changing the Game
+- Draw Value
+- Identify Players
+
+#### Changing the Players
+- Pay me to play
+	- Suppliers: Holland Sweeteners & Neutra Sweet(70% Gross Margin)
+	- Coke and Pepsi were in bitter competition
+	- Neutra Sweet cannot be let go immediately
+- Cheap Complements
+	- Hardware/Software
+	- Razor and Blades
+
+#### Changing the Added Value
+- Raise your added value
+	- Over Capacity of Airlines
+	- Don't indulge in Price Wars at the cost of customer suffering
+- Lower Added Value of others
+	- Minetonka bought capacity
+- Protecting added value is as imp as building it
+
+#### Changing Rules
+- Give structure to the game
+- Revise or come up with new ones: Canon Case
+- Some rules:
+	- One Price to all -> Entry at lower price - Judo Strategy(Big Player should let the small player enter. Too costly to fight. Small Player may also protect the turf in his space.)
+		- Incumbent can match price or give up share
+	- Meet competition clause
+		- Lowest = variable cost
+		- L1 Tenders
+			- New supplier comes with lowest bid
+			- Assured of quality of previous suppliers
+			- Give a chance to the previous players to meet the new rates
