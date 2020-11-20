@@ -89,3 +89,24 @@
 - the other didn't instead it got the lost market share of the first
 - 1st created a fog: reduced the price significantly in a few states. Claimed that it would do this in all states
 - 2nd company had to increase the price eventually
+
+##### Points
+- Pre-empt Competitors
+- Threat of Actions
+- Test of Competitor Sentiments: Newspaper case
+- Communicating please or displeasure with competitor
+- Avoid Costly Simultaneous moves
+- Internal Support
+
+#### Chanding the scope of the business
+- Game in 1 place can inlfluence games in another
+- Game today can influence games tomorrow
+
+#### Traps
+- Don't accept the game you're in
+- Changing the game need not come at the expense of others
+- You have to find something to do that others cannot
+- Failing to see the whole game-overlooking complementors
+- Failing to think methodically about changing the game
+- There is no end to the game of changing the game
+
