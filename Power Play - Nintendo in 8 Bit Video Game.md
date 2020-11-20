@@ -186,6 +186,20 @@
 	- Revenue = Online Time + Info + Service Suppliers access to the user base
 
 #### Nintendo in the US
-- 
+- Year: 1980
+- Nintendo of America(NOA) Established
+
+### NES
+- Year: 1985
+- Arakawa - Tried Launching Famicom in America
+- Home Video Game Systems - shift from toy perception to consumer electronic product
+- Targeted Electronics retailers and offered to stock stores for free
+- Consumer demand was surprisingly high
+
+### Licensing
+- Similar to Japan
+- Ltd each license to 5 NES titles/year
+- Content controlled - No adult or excessively violent content allowed
+- Early licensees - US Subsidiaries of companies that worked with Nintendo in Japan 
 
 # Amita Ma'am: Discussion on 20/11/2020
