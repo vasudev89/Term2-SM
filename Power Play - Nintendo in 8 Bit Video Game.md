@@ -249,6 +249,10 @@
 - Ship 1 million game boys by end 1989
 - Through 1992 - 32 Mill Game Boys were sold - average 3 games per year
 
+### Legal Maneuvers
 
+### A New Game
+- Mariner's Baseball Team Sale
+- How is it relevant?
 
 # Amita Ma'am: Discussion on 20/11/2020
