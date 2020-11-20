@@ -235,6 +235,20 @@
 	- Strict Inventory Control
 
 ### Position in Late 1980s
-- 
+- Greater than 90% share of the Home Video Game Mkt
+- 30 million NES units had been sold
+- Consumers bought 8 to 9 cartridges for every NES purchased
+- NOA intended to set up a n/w linking American Households that had the NES - AT&T would be the carrier
+	- Slow to progress
+	- Eventually idea dissolved
+
+### Game Boy
+- Handheld monochrome video game system
+- Designed to appeal to older children and adults
+- Priced at $100 with cartridges costing $20 to $25
+- Ship 1 million game boys by end 1989
+- Through 1992 - 32 Mill Game Boys were sold - average 3 games per year
+
+
 
 # Amita Ma'am: Discussion on 20/11/2020
