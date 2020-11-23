@@ -257,4 +257,13 @@
 
 # Amita Ma'am: Discussion on 23/11/2020
 
+## Opening Discussion
 
+### Generic Strategies - Cost Leadership and Differentiation
+
+### Orders of Fit
+- 1st Order
+- 2nd Order
+- 3rd Order
+
+### Tetra Threat Framework - Sustainable Competitive Advantage by Pankaj Khemawat - Library Access
