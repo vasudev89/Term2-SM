@@ -329,3 +329,5 @@ Game Theory: Not allowing suppliers to sell to others for at least 2 years
 	- TV Games
 	- Toy Like
 	- Cheap H/W + Hit Games
+	- Sell to more to achieve economies of scale with a compounding effect
+	
