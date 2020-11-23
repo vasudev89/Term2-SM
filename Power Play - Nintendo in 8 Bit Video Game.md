@@ -266,4 +266,66 @@
 - 2nd Order
 - 3rd Order
 
-### Tetra Threat Framework - Sustainable Competitive Advantage by Pankaj Khemawat - Library Access
+### Tetra Threat Framework - Strategy and The Business Framework by Pankaj Khemawat - Library Access
+
+## Class Discussion
+
+### Question: How did Nintendo Successfully recreate the home video game business?
+- Cheap dedicated H/W with superior graphics and hit games: Both differentiation and Cost Leadership
+- Famicon price = $100, Catridges @40(12) vs US Cartridges @45(8-9), Revenue => Japan = $480, US = $380, Wholesale $30, Royalty $6, Mfg $6-8, Development Cost - $500K, Marketing $2 Billion, Break Even = 125K
+- Tie Ups with large retailers
+- Ltd Supply
+- Control over retailers
+- Network with large no. of households
+- Artificial Scarcity
+- Quality Seal
+- Security Chips
+- Own H/W
+- Own S/w
+- Licensing
+- Price Regulated
+- Shelf Space capture
+- Good R&D development cost - Entry Barrier
+- Ecosystem
+- Multiple Developers
+- Monopoly
+- Control over retailers
+- Inimitable
+
+### Supplier of the Games
+Game Theory: Not allowing suppliers to sell to others for at least 2 years
+- Reputable S/W houses to develop the game
+- Security Chip
+- Restrict no. of titles
+- Restrict the quality of content
+- 2 Year Clause
+
+### Retailers
+- Ltd Supply of Games(Nintendomania)
+- Competition among retailers for hit games
+- Sell non hit games
+- Free publicity: adds value by selling a game which would otherwise not sell in the case when a popular game isn't available
+- RPM(Retail Price Maintenance): Controlling Retail Price. Not allowing Big retailers to give a discount.
+
+### Question: How did Nintendo capture value from the home video game business?
+- Customers
+	- Consumers - Passive Players
+- Retailers - Aggressive
+	- Shortfall in Games
+	- RPM - One price to all
+	- Risk of Inventory
+- Suppliers
+	- Chip Manufacturers
+	- Trainling Technology
+	- Characters
+		- In house development
+- Complementors(also Substitutors)
+	- Bundled games
+	- Security Chip
+	- Restricted number of licensees - Competition among them
+	- Ltd Titles - Hit games
+- Substitutors
+	- Arcade Games
+	- TV Games
+	- Toy Like
+	- Cheap H/W + Hit Games
