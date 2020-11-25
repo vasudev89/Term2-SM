@@ -14,3 +14,4 @@
 - Even if attractive expansion opportunities are available and past objectives are being met, firms diversify because retained cash exceeds the total expansion
 - When diversification opportunities promise greater profitability than expansion opportunity
 - When the available info is not reliable enough to permit a conclusive comparison b/w expansion and diversification
+- Only when mission and product change is it termed diversification
