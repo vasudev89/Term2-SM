@@ -28,7 +28,8 @@
 - Size and Age
 - Management
 - Business Definition
-- Common Capabilities
+- Major Internal Changes - Ability to handle the new firm in your org
+- Common Capabilities - Commonality between the firms
 - Handling Predictable Errors
 - Better External relations
 - Major Decisions about entry
