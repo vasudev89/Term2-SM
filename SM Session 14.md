@@ -12,4 +12,26 @@
 - Vertical - Same customers
 - Concentric - Both Vertical and Horizontal
 
-## 
+## Parenting Advantage
+- Decide which businesses to keep in one umbrella
+- Keep others outside
+- Create more value than competitors who had the same bundle
+
+## Parenting Advantage
+- 2 kinds of fit
+	- CSF of each business
+	- Parenting Opportunity - improve the child company
+- Fit Parenting with CSFs
+- What is CSF?? - Done in Internal Fit
+
+## Parenting Opportunities
+- Size and Age
+- Management
+- Business Definition
+- Common Capabilities
+- Handling Predictable Errors
+- Better External relations
+- Major Decisions about entry
+- Linkages
+- Special Expertise
+
