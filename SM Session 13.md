@@ -92,6 +92,18 @@
 	- Dominant Business => 70-95% Rev from single business
 - Moderate to High Levels of Diversification
 	- Related Constrained => <70% Rev from dominant business. All businesses share product, tech and distribution links
-	- Related Linked => <70% Rev from dominant business. Limits links b/w businesses
+	- Related Linked => <70% Rev from dominant business. Limited links b/w businesses
 - Very High Level of Diversification
 	- Unrelated => <70% Rev from dominant business. No common links b/w businesses
+
+## Portfolio Approach - BCG Growth Share Matrix
+- Stars
+- Question Marks
+- Cash Cows
+- Dogs
+
+## Strategic Environment Matrix
+- Fragmented
+- Specialized
+- Stalemate
+- Volume
