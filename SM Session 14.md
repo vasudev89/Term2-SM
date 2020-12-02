@@ -21,8 +21,9 @@
 - 2 kinds of fit
 	- CSF of each business
 	- Parenting Opportunity - improve the child company
+	- Characteristics - Mental Map
 - Fit Parenting with CSFs
-- What is CSF?? - Done in Internal Fit
+- CSF - Critical Success Factors - Done in Internal Fit
 
 ## Parenting Opportunities
 - Size and Age
@@ -36,5 +37,14 @@
 - Linkages - Linkages in Value Chain 
 - Special Expertise - Special Expertise required in that business
 
-## 
+## Making Changes to Improve Fit
+- Ballast 
+	- Low misfit b/w CSF(New Business) and Characteristics 
+	- Low Fit b/w parenting opps and parenting characteristics
+	- Nirula acquires Reliance Fresh
+- Heartland - Transfer quality, service, processes to new firm - Give to the new entity what the other firms cannot
+- Alien Territory
+	- Haldiram's = Packaged Food
+	- Nirula's cannot enhance them
+- Value Trap - Parent not well versed in the child's business. Will not be able to extract value
 
