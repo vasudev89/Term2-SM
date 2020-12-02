@@ -33,6 +33,8 @@
 - Handling Predictable Errors
 - Better External relations
 - Major Decisions about entry
-- Linkages
-- Special Expertise
+- Linkages - Linkages in Value Chain 
+- Special Expertise - Special Expertise required in that business
+
+## 
 
