@@ -48,3 +48,17 @@
 	- Nirula's cannot enhance them
 - Value Trap - Parent not well versed in the child's business. Will not be able to extract value
 
+## Relatedness
+- Business Selection - GE
+- Industry Consolidation - 
+- Parenting Similarities - Hanson Trust in US - Raider comp - Acquire comp and sell off parts
+- Core Competencies - Bird's eye - limberjack finding a way to frozen food in canada - frozen fish in lake - put it in fire - giving birth to frozen foods - Core Competency
+- Inter business linkages - Walmart
+- Complex strat integration - 3M
+
+## Features of Adjacency Strategies
+- Keep 1 foot grounded
+
+## Forms of Aadjacency Moves
+- Shift from product business into services
+	- IBM Global Services
