@@ -50,3 +50,11 @@
 	- Procedures
 Change Everything at once
 
+## Balanced Score Card
+- Long Term and Short Term
+- 4 aspects
+	- Operational Processes
+	- Financial
+	- Customer
+	- Learning and Growth
+
