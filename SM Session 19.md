@@ -53,8 +53,10 @@ Change Everything at once
 ## Balanced Score Card
 - Long Term and Short Term
 - 4 aspects
-	- Operational Processes
 	- Financial
 	- Customer
+	- Operational & Internal Processes
 	- Learning and Growth
-
+	- __Arrow Goes Up__
+- Communication tool and not a controlling mechanism
+	- Reverse is true
